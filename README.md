@@ -11,6 +11,7 @@ $ ./s-talk 7000 localhost 8000 . Do this in two different terminals to see the m
 # Then on another terminal run:
 $ ./s-talk 8000 localhost 7000 
 # Enter ! to exit
-Features
+
+# Features
 Can send messages 
 Sending ! ends session on both terminals
